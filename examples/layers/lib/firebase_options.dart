@@ -44,7 +44,7 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyAUIUiXw6vfsm0tv_CwOokZZmeKDSqsf3A',
+    apiKey: '',
     appId: '1:252851325812:android:77757e86eaf31880dc3a21',
     messagingSenderId: '252851325812',
     projectId: 'karmaaimobileapp',
@@ -61,7 +61,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyCZ6trYdgACpZejE-XMGCzegctSfKrYrUY',
+    apiKey: '',
     appId: '1:252851325812:ios:572dda261f68c929dc3a21',
     messagingSenderId: '252851325812',
     projectId: 'karmaaimobileapp',

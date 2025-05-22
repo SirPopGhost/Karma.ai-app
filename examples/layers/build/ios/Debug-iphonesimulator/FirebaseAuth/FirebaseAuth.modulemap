@@ -1,0 +1,12 @@
+module FirebaseAuth {
+  umbrella header "FirebaseAuth-umbrella.h"
+
+  export *
+  module * { export * }
+}
+
+
+module FirebaseAuth.Swift {
+  header "/Users/srikardevesetti/Desktop/flutter/examples/layers/build/ios/Debug-iphonesimulator/FirebaseAuth/Swift Compatibility Header/FirebaseAuth-Swift.h"
+  requires objc
+}

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "252851325812",
+    "project_id": "karmaaimobileapp",
+    "storage_bucket": "karmaaimobileapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:252851325812:android:77757e86eaf31880dc3a21",
+        "android_client_info": {
+          "package_name": "io.flutter.examples.layers"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUIUiXw6vfsm0tv_CwOokZZmeKDSqsf3A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
